@@ -30,7 +30,7 @@ pip install pyautogui
 ## 🚀 Usage
 
 ```bash
-python mouse_mover.py
+python yourbosswillbeangry.py
 ```
 
 To stop the script, press `Ctrl+C` in the terminal.
